@@ -12,6 +12,9 @@ In this era of automation many scientific advancements and inventions have taken
 * Auto-generate various types of reports of class or student attendance
 * Real time attendance status tracking.
 * Effective recognition of unique faces in a crowd (individual recognition in crowd).
+* Attendance record
+* Total head count
+* Time-table updation
 
 ### Installing
 
